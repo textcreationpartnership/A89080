@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius verax, or Truth appearing after seaven yeares banishment, discovering falshood, reproving error, revealing plotts, and communicating infallible intelligence from all parts of the kingdome, especially from Westminster, the councell of state, and the head-quarters. Concerning all affaires, humours, whimsies, and fancies.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89080</idno><idno type="EEBO-CITATION">99865126</idno>
+  <idno type="VID">165156</idno>
+  <idno type="EEBO-PROQUEST">2240902391</idno>
+  
+            <idno type="STC">Wing M1777</idno>
+            <idno type="STC">Thomason E558_7</idno>
+            <idno type="STC">ESTC R205894</idno>
+            <idno type="PROQUEST">99865126</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865126e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89080)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165156)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E558[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius verax, or Truth appearing after seaven yeares banishment, discovering falshood, reproving error, revealing plotts, and communicating infallible intelligence from all parts of the kingdome, especially from Westminster, the councell of state, and the head-quarters. Concerning all affaires, humours, whimsies, and fancies.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 4th 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165156:1"/>
+            <p> Mercurius Verax, OR <hi>TRƲTH APPEARING</hi> AFTER Seaven Yeares BANISHMENT, Discovering falshood, reproving error, revealing Plotts, and communicating infallible In<g ref="char:EOLhyphen"/>telligence from all Parts of the Kingdome, especially from <hi>Westminster,</hi> the Councell of State, and the Head-Quarters.</p>
+            <p>
+               <hi>Concerning all affaires, humours, whimsies, and fancies.</hi>
+            </p>
+            <lg>
+               <l>THe Proverb is falsified,</l>
+               <l>For Trueth hath sought out corners,</l>
+               <l>Being mockt and cuft and vilified</l>
+               <l>By ungodly Parliament Scorners.</l>
+               <l>Long Seaven Yeares it banisht was</l>
+               <l>From this Distracted Nation,</l>
+               <l>Where Lies and Murder have taken place,</l>
+               <l>To set up a wicked Faction.</l>
+               <l>Now once again it doth appeare,</l>
+               <l>To scatter this mist of Error,</l>
+               <l>To make things right, and banish Lies,</l>
+               <l>And strike Rebellion with terrour.</l>
+            </lg>
+            <p>
+               <hi>Vide, Perlege, Fle, aut Ride.</hi>
+            </p>
+            <pb facs="tcp:165156:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:165156:2"/>
+            <head>Mercurius Verax.</head>
+            <p>VVHat have we got here? <hi>Verax:</hi> why how dare you appear in this Cittie, to bee trodden to death in such a crowd of falshood, or how presume you to come so near <hi>Westminster,</hi> seeing the Parliament have made an Act to banish thee for ever; and that it shall be High Treason for Truth to dwell in the Land: how didst thou get away from our Land wherein once thou satest as Princess? were you driven away by the tumult from <hi>White-hall?</hi> or wert thou frighted with that fardell of lying abominations weekly heapt together by <hi>Gilbert Mabbot</hi> the Coblers son of <hi>Nottingham</hi> in his false intelligence? or by the railing forgeries of <hi>Walker</hi> that Pillory-bird? hast thou been conquered by such sonnes of Perdition? but I dare not be tedious, least I should be apprehended in this company for a Traytor, In regard that you are looked upon as the onely enemy destructive to the Common-wealth; so hated in the eies of our Grandees, that if any doe but mention thy name they shall be either Sequestred, or executed for Malefactors: But I am so ravished with thy sudden unexpected presence, that I cannot hold in, thy very apparition hath infused such inflaming vertue into my heart gently working into all parts of my soule, that I feel the drosse and dung of all hypocrisie and lies almost consumed, that now (though I confesse it hath not happened so since this Parliament) I take delight to walke in thy paths there<g ref="char:EOLhyphen"/>fore O noble Trueth, since thou hast been pleased to appear after a saeven years
+<pb facs="tcp:165156:3"/>
+               <pb n="1" facs="tcp:165156:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:165156:4"/> absence in our Nation, give eare to the friendly exhortation of rather a lover then a practiser of thy goodnesse, the times are evill, you shall meet with more opposition here then ever you did, when in Christ you reproved the Pharisees of old; hasten apace; retire to the Parliament, or to som of their Committees; disguise thy self with a habit of hypocrisie, that will make thee State-proofe no<g ref="char:EOLhyphen"/>thing safer, and without that there is no abiding place for thee here; for if you walke in this Citty, the Excise men will snarle, and the men of Gold-smith<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Hall will make thee an enemie to the State, and by consequence a delinquent: if you walke in your residence of <hi>Pauks</hi> the Guard will take you to <hi>White-Hall,</hi> and there you have not one friend in the Councell of Warre, and <hi>Hewson</hi> will make thee squint-eyed like himself, for causing him som eight yeares past to be rated in Shoomakers-Hall, for stuffing the soules of his bootes with shreds to make them▪ weigh the heavier: if you go to the Generall he dare not entertain thee least it cost him his head; if to the Pulpits where you have been frequent afold, they are now so stuff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with false doctrine and blasphemy that you shall be suspe<g ref="char:EOLhyphen"/>cted upon the least inquiry; if to the Pharisees of the Assembly, they will burne you for an Hereticke, for saying that it is unlawful for them to hold half a dozen livings a peece, as you know they doe; if you go to the Parliament, alas, there you are undon, for they account you one of the greatest enemies now living; if to the Common Souldiers, they will not owne you for feare of being shot to death for mutiny, thus if you walke in your owne plaine garment of honesty above bord, you shal be taken and shal be persecuted, reviled, imprisoned, famish<g ref="char:EOLhyphen"/>ed and in the end murthered; look to your self warily, else you shall be tried, questioned, and condemned by the great Grandees and pillars of our Common<g ref="char:EOLhyphen"/>wealth, namely, Heresie, Blasphemy, Perjury, Covenant-breaking, Ambition, Lust, Cruelty, Oppression, Murder, Hypocrifie, &amp;c. these are they that here ruled all and sainted all since you forsak't the land in <hi>Anno</hi> 1642.</p>
+            <lg>
+               <l>Then noble Trueth dwell in my heart,</l>
+               <l>Possesse the safest corner there;</l>
+               <l>So shall I stirre and act my part</l>
+               <l>By your Commands without all fear.</l>
+            </lg>
+            <p>And now having tipt my tongue with the silver keenes of truth; I will cry a<g ref="char:EOLhyphen"/>loud and spare not, I will confound <hi>Rabshekah,</hi> cry downe Cedars of oppressi<g ref="char:EOLhyphen"/>on, tiranny and murder, &amp;c, levell all their Plots and Machinations even with their downfalls, discoyet the secret plotts of darkness, uncover the nakedness of false Army officers, the authors and prolongers of our too long-lasting calami<g ref="char:EOLhyphen"/>ty: sound out the oppression of Poore, the cry of the Needy, the famishing of new made Orphans, the Lamentation of the Widowes and fatherless, the groan<g ref="char:EOLhyphen"/>ing of thousands starving for want of bread in every corner of the Land: and none no relieve them, the sudden fall, desolation, horror of conscience, consum<g ref="char:EOLhyphen"/>ption of purse; the vagrant banishments, confusion, peregrination and sad con<g ref="char:EOLhyphen"/>dition
+<pb n="3" facs="tcp:165156:4"/> that shall through the just judgment, of God raine downe from heaven upon the bloody Usurpers in <hi>Westminster</hi> who have let in this inundation of unpa<g ref="char:EOLhyphen"/>paralelld calamity upon this once flourishing <hi>England,</hi> and that for no other cause but to satisfie their own lust, avarice pride, and ambition; therefore to begin with the ffrst Scene of their soone approaching Tragedy let them heare with pa<g ref="char:EOLhyphen"/>tience what they might feele with sorrow the very thunder-bolts of heaven com<g ref="char:EOLhyphen"/>ming against them, to the great feare and consternation of all their guilty and Cain-like consciences.</p>
+            <p>From the <hi>Hague May</hi> 25. that all things work together for the good of the Young King, that though there is a seeming difference outwardly, yet the agree<g ref="char:EOLhyphen"/>ment is concluded secretly underhand in <hi>Souland</hi> between the King and them. that its in vaine for the creatures in <hi>Westminster</hi> to endeavor for a faction there against Monarchy; a hopeful conclusion expected between all interests, which will bee effectually sealed upon his Majesties landing there and and that sudden<g ref="char:EOLhyphen"/>ly for already Friends and Foes are reconciled in that Kingdom,</p>
+            <p>Now yee men of confusion, here begineth the Spring of your deserued sorrows, the loyall Scots comply with their new King that their Land may no longer bee made a field of blood, (wilst you delight to walke in the ways of Cain) and that appears fully by that happy agreement that was timely composed between the two Scotch Earles <hi>M<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sse</hi> and <hi>L<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ericke,</hi> of late deadly enemies, but now of united hearts and mindes to live and dye together in the service of their King.</p>
+            <lg>
+               <l>When the Lords worke is accomplishing.</l>
+               <l>Hee makes Foes unite to restore a King.</l>
+            </lg>
+            <p>The Zealots were so affrighted with these sudden good newes brought in to to Darby house for sure intelligence from <hi>Strickland</hi> their Agent in Holland, that for halfe an houre together they could not utter a worde, but gaped and stared one in anothers face like a company of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nticks at a puppy-play, every one rea<g ref="char:EOLhyphen"/>ding his owne fatall destiny in that grisly horrour of guilt which appeared in the face of his fellowe; for they well knowe that the King being established in <hi>Eden<g ref="char:EOLhyphen"/>burrough</hi> cannot long be kept out of <hi>London,</hi> O that were a Northerne storme indeed!</p>
+            <p>The Newes were not halfe digested, but in came another sniffer, who told them that tru-ly he ha—ad some thing to communica—ate, intimating how that <hi>Dorislaus</hi> (whom they sent but a while since to make Holland (if possible) like this, a stage of Treachery) was sent per force to another world, to render an accompt of his stewardship, or to answer to the grand impeachment drawen up against him: But Lord, how ill provided was he so that journey, his hands be<g ref="char:EOLhyphen"/>ing full of blood, his gutts full of sacke, and his conscience lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>den with blacke guilt.</p>
+            <lg>
+               <l>Heere <hi>Dorislaus</hi> buried in Oblivion,</l>
+               <pb n="4" facs="tcp:165156:5"/>
+               <l> Who all his life lockd conscience and Religion,</l>
+               <l>Destitute of grace, honesty, trueth and reason:</l>
+               <l>A Saint he was, although his principlc treason.</l>
+               <l>But from hell is sent for, a bill to frame</l>
+               <l>Against all such that feare Gods Name.</l>
+            </lg>
+            <p>This latter Message put every one of the Juncto in minde of his owne deserts, which caused such a terrour and with all a saintnesse that deprived them of both sense and sight for a space, that its mervaile that Sir <hi>Hagge Mildmay</hi> did not cry out that the Kings Forces were neare at hand, when he behelde <hi>Olivers</hi> nose, which (in that trance) seemed to him to be a beacon set on fire to give an alar<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>. Such is the sad Character of a black Conscience, that it flieth where there is none to pursue,</p>
+            <p>And because they would encourage all famous traitours to be unfaithfull, as the said Doctor of never Civill Law, untill his death, they have taken into consideration how they might set a vernish upon his already rotten name; therefore they pitch upon a new found way, which is, that some of the bloudiest traitours should succeede him in his Vocation; to which purpose <hi>Tom, Noll,</hi> and every-way-sighted <hi>Hewson</hi> have taken the Degree of Doctors in the Civill Law, in honour of Saint <hi>Dorislaus.</hi> How now Squint, what a Doctor? Certainly the Palmer-worme of all soules, did abstract thee out of the shreds and reliques of old bootes and shooes. Faith now I am in good hopes that the three famous Colledges of <hi>Gotham</hi> shall be shortly repaired for the present and future reliefe of three sorts of people: The first for Fooles to keep them still in ignorance: The second for Knaves to make them seeme holy: And the third for the education of all the young frie of Coblers, whose parents want money to preferre them, and then shall not learning flourish▪</p>
+            <p>Unlesse this good Worke be prevented by newes coming from a certaine place, as the Tuesday News-monger calls it; but in plain English some say it is <hi>Hull:</hi> For by letters from Yorke, bearing date May 26. it is ascertained that that Towne and Garrison have declared to the world unanimously that they will yeeld no more obedience to the Rebells in Westminster. But how will this tu<g ref="char:EOLhyphen"/>mult be supprest, this may prove dangerous? Yes, my Lord, the Army will sub<g ref="char:EOLhyphen"/>due them: but beleeve it from trueth that there are of this Army already cashie<g ref="char:EOLhyphen"/>red, with such as have willingly cashiered themselves, above five thousand, all the best Sword-men; and all because they will no more maintaine Tiranny. Blesse his new uncreated Lordship from the <hi>Gregory-</hi>Evill.</p>
+            <p>And because they are so hellishly given to wickednesse, and doe nothing else but imagine mischiefe both day and night; the blood-thirsty Juncto have found out a trappe to ensnare all men: for they have set up a thing called a Committee of Discovery, which have power to emploie as many cut-purses, panders, and theeves as they please, to be enformers against any that shall speake against any proceedings of <hi>Westminster</hi> or <hi>White-hall,</hi> that all such may be proceeded against
+<pb n="5" facs="tcp:165156:5"/> as traitors. They often meet neere the <hi>Chequer</hi> in <hi>Holbourne.</hi> This Act of grace was made by the men of blood in the first Yeare of <hi>Englands</hi> Slavery 1649. And have not ye purchased a hopefull Libertie, when as your Lives and Estates must be confined to the mercilesse Oath of a the eving Atheist that neither feares God nor man?</p>
+            <lg>
+               <l>Thus England lost a glorious Liberty,</l>
+               <l>And her People is yoaked in Egyptian Slavery.</l>
+            </lg>
+            <p>And that the least dram of crueltie be not lacking either directly or indirect<g ref="char:EOLhyphen"/>ly, they have further appointed <hi>Munke</hi> and <hi>Bishop,</hi> Martials of this and that side the Thames to torment and crucifie whom they please or suspect, so that when they have fortified themselves in their intended Tiranny, these <hi>Phar<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hs</hi> will turn us the next Year to make bricke without Straw to build sumptuous Pallaces for their bratts, their trulls, their pride and luxuriousnesse.</p>
+            <lg>
+               <l>A life in Turkey is surer, then</l>
+               <l>Vnder this monstrous brood of bloody-men.</l>
+            </lg>
+            <p>The Young King is now in <hi>France,</hi> having almost obtained all his Demands from all Christian Kings in point of Restauration. <hi>M<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sse</hi> is upon his March with six thousand Horse and Foot, if not already landed in <hi>Scotland:</hi> Thus a new Visage begins to appear upon the face of things A short time will worke great matters. <hi>London Derry</hi> is taken, and <hi>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ublin</hi> in a sad condition.</p>
+            <lg>
+               <l>O Lord save us from being Slaves</l>
+               <l>To the bloudy Sect of Dorislaus.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
